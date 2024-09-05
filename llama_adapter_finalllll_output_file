@@ -1,0 +1,1207 @@
+Id,text,ground_label,Predicted
+862902619928506372,"The text associated with the image reads <i am guessing # netflix no longer lets you grab screens of movies . that & the new rating system is so awesome .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+892551658487631873,"The text associated with the image reads <it 's the insensitive strikeouts at suntrust park .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+853143461360480256,"The text associated with the image reads <following the path of the river calder , so ... grim ... up .... north>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+918423568823840768,"The text associated with the image reads <# westernsahara # authority has no lessons 2get from countries of # humanrights high standards>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+731617467718610944,"The text associated with the image reads <hey <user> great sale !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+684633048483106816,"The text associated with the image reads <dad 's handy work . can 't tell at all .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+722492930016026624,"The text associated with the image reads <no one will know …>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+702345480924041217,"The text associated with the image reads <it is a shame that <user> never kept up his twitter account . he had such pleasant views>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+859056671179636737,"The text associated with the image reads <dump your furniture on the sidewalk & leave . the city of guelph will clean it up . of>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+923929354610053120,"The text associated with the image reads <hitting sure has changed in <num> years .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+919651889511313408,"The text associated with the image reads <leaving <num> degrees barcelona to come home for>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+877816574240972802,"The text associated with the image reads <hell yeah !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+806888630031622148,"The text associated with the image reads <# inappropriatetimestogiggle all the damn time .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+712810737811505153,"The text associated with the image reads <i could enter the olympics ! ;) rt <user> :>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+894741372527411200,"The text associated with the image reads <wow ! what a twist never saw that coming>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+732682873166159872,"The text associated with the image reads <how to make montages <num> <user> <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+722871462915235842,"The text associated with the image reads <another well balanced champion . cool>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+839086335096942592,"The text associated with the image reads <wouldn 't it be terrible if someone were to infiltrate this ? they might even film the event ! i would never want to see that happen .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0 (Non-Sarcasm)
+802576734117691392,"The text associated with the image reads <clearly it 's not hard to tell how much i love pa>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+726980104090456065,"The text associated with the image reads <like if you agree ... :/>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+939714200456318981,"The text associated with the image reads <out of entire route 95 , the worst roads are in nj . because you don 't pay your share of taxes , people !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+884901385141190657,"The text associated with the image reads <another great day of service>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+824024594755518464,"The text associated with the image reads <oh yes fios , let 's upgrade our wi-fi for even more $ $ & still be slower than many countries !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+895860997054799872,"The text associated with the image reads <hahaha can 't wait for the teenage years . not !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+924449074568400896,"The text associated with the image reads <larries out here living the treat people with kindness life .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcastic.
+840225661117706240,"The text associated with the image reads <when you 're on high position , you can say such a things and still be legit>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+821997332346437632,"The text associated with the image reads <damn ! we lurveee our new logo . wait , not ours , sarawak fa 's .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+863886502698156032,"The text associated with the image reads <government chemtrails poisoning smh .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+736082451424890881,"The text associated with the image reads <when it 's 2nd april and she is still pregnant .. <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+821870486372155393,"The text associated with the image reads <well , this is going to be fun little project ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+914153415105753092,"The text associated with the image reads <would you rather ? .... watch <num> chick 's on cheat day , or listen to another political garbage game ? you decide .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+712023362784989184,"The text associated with the image reads <pretzel sticks lay hours reacting with air and salt . they look like worms with disease . yum !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+890941969404383232,"The text associated with the image reads <<user> <user> <user> is this true ? if yes , i will make any randon order in your support .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The text associated with the image is sarcastic, so the output should be label 1."
+920605091429797889,"The text associated with the image reads <why do <user> wrap their soothers in this paper - great i now have scratchy paper tickling the back of my throat . just what i need>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+829756733916585984,"The text associated with the image reads <true story>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is <true story>.
+755115255114629124,"The text associated with the image reads <it looks like the # bodypositive types have found a home with # isis .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+871437724158480385,"The text associated with the image reads <<user> has selected <user> to be spokesthing for the british people ... [ ]>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+900709797233864704,"The text associated with the image reads <i laughed so hard at this one .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+900881230580916224,"The text associated with the image reads <<user> these kids are excited about the>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+902016654288326656,"The text associated with the image reads <it 's strange ... i don 't ever remember seeing these signs of hate on the mainstream media anywhere ... did i miss this ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+918550230546690048,"The text associated with the image reads <the house is coming along slowly . class really misses <user> homebuilding expertise ! !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+684751563454205952,"The text associated with the image reads <this was too funny not to post - hope you have a happy>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+728697454175080449,"The text associated with the image reads <thanks for the advanced notice <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+885954652336001024,"The text associated with the image reads <always room for one more , right . <user> . <user> . <user> ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+721349486790975488,"The text associated with the image reads <didn 't know that>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+712994516379283457,"The text associated with the image reads <how many calories does burn ? <user> <user> <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+703292803229421568,"The text associated with the image reads <surely gianni infantino is the man to put soccer ahead of money and the world ahead of europe>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+823321127758004224,"The text associated with the image reads <meme # memes # memesdaily # lol # lmaoo # lmfao # comedy # brutal # dark # politics # vickivohe now that makes more sense ... lol>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+823526446555602945,"The text associated with the image reads <( just in case you missed it , i 'm not really good at being pc )>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+830103394714939392,"The text associated with the image reads <the beautiful los angeles river - why isn 't this a wonder of the world already ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+710449542982819840,"The text associated with the image reads <a multi-millionaire w / wall st . ties vs a "" billionaire "" w / wall st . ties . how inspiring ! <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+832320772295237636,"The text associated with the image reads <stop breathing ! p . s . : this reminds of a lot of health advice i see nowadays .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0 (Non-Sarcasm)
+715660361593020417,"The text associated with the image reads <useful . <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+828188799037497344,"The text associated with the image reads <well that looks appetising ... <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+700183392969756672,"The text associated with the image reads <oh i so love working late from home>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+687723279520526336,"The text associated with the image reads <<user> good to see you keep your beans fresh ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+851299799299174400,"The text associated with the image reads <rofl>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+693529529214611457,"The text associated with the image reads <diva worthy ? perhaps .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0 (Non-Sarcasm)
+823616855252336640,"The text associated with the image reads <but i don 't understand why women marched .... <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+698723413162987521,"The text associated with the image reads <oh my god , i 'm so funny ba dum tss ♫ ♪>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+849109445581824001,"The text associated with the image reads <my friend layin ' down some 'sjw truth ' tonight : # nationalchampionship yeah , makes as much sense as>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"Based on the text associated with the image, it is not possible to determine whether the statement is sarcasm or not. Therefore, both labels 0 and 1 cannot be assigned confidently."
+794191412954853380,"The text associated with the image reads <my stepsister posted this>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+835436807953215490,"The text associated with the image reads <there is nothing that can make a pr pro get up on time than deadline !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+690561903580418048,"The text associated with the image reads <expecting ? sorry . it 's friday , i 'm too tired .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+882067719184674816,"The text associated with the image reads <maria was complaining of murths ... - george sanders as benjamin ballon in a shot in the dark ... :)>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+850127880029970432,"The text associated with the image reads <thank goodness <user> let all the kids out of school <num> minutes early yesterday .... that storm was super dangerous !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcastic.
+853859121694724096,"The text associated with the image reads <is this mr . <user> was talking about . smith is slight better than msd .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+882363765655834624,"The text associated with the image reads <a brilliant move by the <user> front office to move shaw>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+921278376085803008,"The text associated with the image reads <day 18 ! ! ! i love how i 'm drawing daily ; - ;>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+817523663897501696,"The text associated with the image reads <pretty much ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+828966943214432256,"The text associated with the image reads <so proud of <user> 's efforts to fill the swamp with republican donors . great job .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+709380107203260417,"The text associated with the image reads <this spring break thing is really hard . – 在 kindred coffee co .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+700626309228183552,"The text associated with the image reads <attention to detail …>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+717042051074891776,"The text associated with the image reads <<user> supporting donald trump aka his role model>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+823971155061116928,"The text associated with the image reads <i need this jumper !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+692846957883076608,"The text associated with the image reads <don 't i look lovely with a huge oxygen tube on haha>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+865488370838851585,"The text associated with the image reads <i know few of them ; bloody as * holes ( askholes )>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+827027433173889024,"The text associated with the image reads <how does a pr whatsapp looks like ! ;)>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+837546519892877313,"The text associated with the image reads <tree of life ....>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+717616608114511872,"The text associated with the image reads <lovely bus for travelling to london>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+921594955138781184,"The text associated with the image reads <you just have to call her name if you are angry at her .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+900535065507241986,"The text associated with the image reads <cause blackandwhite photos are cool ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+884496200661184512,"The text associated with the image reads <feeling super proud>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+706657778140471298,"The text associated with the image reads <avril lavigne on being one of the best creative minds of our time .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+821509072222650371,"The text associated with the image reads <ah ... now that 's super helpful ! lol>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+818541279554498561,"The text associated with the image reads <good one ! ! <user> <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+844090891266490368,"The text associated with the image reads <tru that .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcastic.
+845366369050865664,"The text associated with the image reads <<user> no jerry it doesn 't look bad at all , your only missing your mouth .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+900218985140113409,"The text associated with the image reads <hey # nintendo just a + job on match pairing , thank u so much for letting me play ur amazing game die & respawn simulator>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+928872445695553536,"The text associated with the image reads <the vision vancouver bike lanes are so crowded with cyclists ( "" how crowded are they ? ! ? "" ) , they 're so crowded that vision vancouver wants skateboarders to use them .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+728641891726548992,"The text associated with the image reads <well you 're right on the ball , aren 't you jj ... they were never together , you effing idiots ! !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+891287306786570240,"The text associated with the image reads <farhanakhter , singer ? women hate attention ? <user> tom 6pm>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+702567925698338816,"The text associated with the image reads <hard at "" not "" working in jesse hall with other grad students who may be employees>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+710931422496817152,"The text associated with the image reads <<user> woah man .... nice going ! while you are up at it ... could you tell me where others are as well ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+810934821639884800,"The text associated with the image reads <smashing service as usual ! such good money spent ! love my commute ! <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+818506785938165762,"The text associated with the image reads <the app has been made download kenby on appstore !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+897805587966308352,"The text associated with the image reads <the best way get back to it>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0 (Non-Sarcasm)
+887806971314749440,"The text associated with the image reads <why would anyone go to the oncologist office when you can cure cancer by going vegan , or just get rid of it w / juice detoxes ? duh .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+732652452919541762,"The text associated with the image reads <fantastic # nightfall rewards <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+884593874181685248,"The text associated with the image reads <thanks for the spoiler <user> ! i didn 't want to find out who won hoh on my own anyway .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+940002603911602182,"The text associated with the image reads <buy this t-shirt , art print , phone cover ( and much more ) . links in my profile .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+688140954750955520,"The text associated with the image reads <not at all cynical .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The text associated with the image is sarcastic, so label 1 should be returned."
+881122257300475905,"The text associated with the image reads <nice pants , can i test the zipper ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+909499408185679872,"The text associated with the image reads <humanity has gone too far ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+702578148110680064,"The text associated with the image reads <good one panda . ( insert )>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+868555509816807426,"The text associated with the image reads <oh , no . this is a mistake . russia is a potential threat . nato must protect , isn 't it ? !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+920425310855811072,"The text associated with the image reads <she must not realize she looks like the bigger idiot>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+707769953953431553,"The text associated with the image reads <free healthcare ? this man bernie sanders is a communist , just like canadians .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+932995346787168258,"The text associated with the image reads <rules are made to be broken>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+862450848978399234,"The text associated with the image reads <a d . c . team hasn 't won a spot in a conference final since 1998 ? really ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcastic.
+903728974047584256,"The text associated with the image reads <any of my fellow californians relate right now ? memes>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+920112738856251392,"The text associated with the image reads <i call this the "" might make another sandwich might not "">.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+695187209746583552,"The text associated with the image reads <awesome traffic , thanks a bunch for lovely customers>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+726479037972013056,"The text associated with the image reads <like if you agree .. :p>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+895014422128713728,"The text associated with the image reads <you can tell by the sloppy glue and the removal of the load bearing beam that these plumbers were experts tradesman .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+779246918324989952,"The text associated with the image reads <my new bff ! <user> sent me this lame , spam direct message when i foolishly followed .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+722926421136384000,"The text associated with the image reads <guess this dude works in the cowboys front office . so much good insight .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+893085464256802816,"The text associated with the image reads <that 's my new coffee mug <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+910501753178791936,"The text associated with the image reads <hearing dated september 28 , 2016 . integrity ensured ! well done !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+836861556390510593,"The text associated with the image reads <* literally me on <user> *>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+839919308356665344,"The text associated with the image reads <who would have thought dr . seuss was a radical ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+712979546828619776,"The text associated with the image reads <thank you mother nature . hoping we don 't lose any tree branches .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+725018007563603969,"The text associated with the image reads <from our portland me office : well , it was nice out yesterday ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+698386890005835777,"The text associated with the image reads <that 's cool <user> , i totally don 't pay for <num> mbps download ... not even <num> mbps ! !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+909025478672998400,"The text associated with the image reads <at least <user> doesnt fear a con artist who 4years laundered russian $ thru german banks then used the $ to hijack the <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+829994925437526018,"The text associated with the image reads <true story of a pr pro !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+927642921008074754,"The text associated with the image reads <yes , well played . <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+839115018054549504,"The text associated with the image reads <so you came up with # thehungergames for pharmaceuticals ? this will end well ..... ( )>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+721383037959860224,"The text associated with the image reads <he sure does have arrogance and incompetence .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+894810169263005696,"The text associated with the image reads <here 's how a pr pro who also happens to be a got aficionado replies to client 's feedback .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+925000460565655554,"The text associated with the image reads <halloween>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+722483568413310976,"The text associated with the image reads <on point>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 0: Non-sarcasm. The text associated with the image is a straightforward statement about the location of Gurgurgram.
+883663535414300672,"The text associated with the image reads <the little dark spots along this field drive indicate that it rained here last night . whoo hoo ! ! ! ! continues>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+822200251281002496,"The text associated with the image reads <got my new fireplace from <user> today ! ! i 'm so excited !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+927331611049312257,"The text associated with the image reads <why do i always do this ? ? i can 't help myself ! <user> from <user> - only>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0 (Non-Sarcasm)
+917454138933465091,"The text associated with the image reads <the joy of wondermedia linux arm soc debugging .... ... where something like screen contrast changes w each soc release>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+697719316645601280,"The text associated with the image reads <nice warm running weather this morning ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+909629620877713408,"The text associated with the image reads <real face of dirty politics snake .. ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+726847431854313472,"The text associated with the image reads <i 'm pretty sure this cookie cake isn 't big enough .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+917370768614416385,"The text associated with the image reads <jair bolsonaro , the <num> brazilian presidential candidate seeks support in the us . trumptastic !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+889172032658845696,"The text associated with the image reads <"" is dis mah good side ? "" .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+926854741887541248,"The text associated with the image reads <mom 's sirius 50s pop hits on direct tv , sounds like a quasi rap song & he says jack asses , needs a parental advisory>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+873194966687916032,"The text associated with the image reads <happy friday !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+725711205957046272,"The text associated with the image reads <my story !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+888443237324738561,"The text associated with the image reads <* probably the most hated people on youtube * <user> <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+734143833567580161,"The text associated with the image reads <everybody listen to the big harvard white lady . she knows all .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+827365466456936448,"The text associated with the image reads <<user> # nowallnoban # ikea way to go ikea !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+830033008187031552,"The text associated with the image reads <i just love setting an example by getting to work before everyone else . waking up at 3:30 am is so rewarding .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+850350213286039553,"The text associated with the image reads <i think we need to add more levels to creative career paths , this seems like the best way to label it .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+924332923968544768,"The text associated with the image reads <thanks james , i really hadn ’ t worked that out for myself>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"Based on the text provided, it is not possible to determine if the statement is sarcasm or not. Therefore, both labels 0 and 1 are equally valid."
+921267141009014784,"The text associated with the image reads <i never knew <user> was that notorious>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+923313011418451970,"The text associated with the image reads <another night having to grind out belgian beer styles , studying for certified <user> . bloody nightmare>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+873511193905856513,"The text associated with the image reads <if lays started making beer>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+713786155305570305,"The text associated with the image reads <i wouldn 't open that door>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+842623742484205568,"The text associated with the image reads <your neighbours when you bring a girl at your home ! !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+885084629123858433,"The text associated with the image reads <the 5th day . wow that is two times faster than yesterday - - - <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+913433776931397633,"The text associated with the image reads <guys look ! it 's our next president ! and you thought trump was great , just wait to meet this guy .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+909065472867307520,"The text associated with the image reads <that 's cool . i just rented a car , got a non-refundable hotel room and am halfway there already .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+688136577806016514,"The text associated with the image reads <after crappy week i would feel so much better giving one of the things listed to several people .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+834936939396677632,"The text associated with the image reads <oh no , i see a girl with clothes on ! quick , let 's start a discussion on twitter and talk about how "" slutty "" they are !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+684590148672077824,"The text associated with the image reads <<user> when # slapboxing is explained to him : "" oh yeah . that sounds like a lot of fun . ""The text associated with the image reads <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+934631087237681152,"The text associated with the image reads <timing is everything <user> what a super christmas present>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+711600744223391744,"The text associated with the image reads <my sister caught me at my happiest . i 'm such a little bundle of joy .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+904997917173284864,"The text associated with the image reads <"" some people are so poor , all they have is money . "">.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+917840943361003521,"The text associated with the image reads <unbelievable . they took <num> parking spots for recycling containers . two . couldn 't they use the sidewalks ? cut some trees ? no .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+880107897958662145,"The text associated with the image reads <<user> <num> small slices of chicken and one shrimp . thanks ! i really love rice .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+697013421414289408,"The text associated with the image reads <level - lonely i am so lonely ... goes smarty pants>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+863026938704777216,"The text associated with the image reads <when you are so damn funny , that u can 't stop laughing at the way you talk>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+922649898339717120,"The text associated with the image reads <28 of the funniest quotes ever funnyquotes <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+863756399955914753,"The text associated with the image reads <bloody movistar , sitting at the front smothering the race .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+896700873983840256,"The text associated with the image reads <i can 't believe the people running twitters news feeds quoted the wrong ken rosenthal>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The text associated with the image is sarcastic, so label 1 should be returned."
+816578051744141312,"The text associated with the image reads <. <user> another "" great "" month for>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+913163228569571329,"The text associated with the image reads <this is true !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+827879534900948994,"The text associated with the image reads <can 't wait to spend several hours every day in the next few weeks with these lovely books .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+722656595553951746,"The text associated with the image reads <i 've seen signs that say "" no outside food "" , but this is really specific .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+698947618102087680,"The text associated with the image reads <ahh <num> nails ... feels just like valentine 's day>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+699685617261744128,"The text associated with the image reads <favourite thing about snowstorms : how the roads get cleared at the expense of the sidewalks ....>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+917694517922324481,"The text associated with the image reads <hahahahahahah>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+715681844763566080,"The text associated with the image reads <motivation by ? :)>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+833996151015747585,"The text associated with the image reads <this new <user> feature is genius # facebooklive # userexperience now i could watch <user> 's video while procrastinating>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+731825216184303617,"The text associated with the image reads <love a good sale at the <user> shop !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+696008220578414596,"The text associated with the image reads <tweeting with stick fingers , stick hands and stick arms is a peice of cake ... really .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+830109351608205312,"The text associated with the image reads <woke up to winds so strong it blew over this on my street . made my 400m repeats feel easy today .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+900990068260835328,"The text associated with the image reads <, because beating the crap out of people is illegal>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+866836086215061506,"The text associated with the image reads <class of <num> <user> <user> <user> uncommitted ranked # 4 in his class . tons of upside>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+732378244729700352,"The text associated with the image reads <# fun # funny # lol # laugh # tumblr # ifunny # quotes # text # trump # obama by friedhumor …>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 0 (Non-Sarcasm)
+888958589641142272,"The text associated with the image reads <get on my metaphysical level bro .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+835627007383764992,"The text associated with the image reads <they really pack them in here at the thomas and mack .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+720022773536415745,"The text associated with the image reads <<user> great support effort on twitter !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+711655006601125888,"The text associated with the image reads <it 's my day , international happiness day . yeah .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+830495474893340673,"The text associated with the image reads <<user> great job at leaving the full business name and address . super easy to decipher .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+820299303973359617,"The text associated with the image reads <jan 14th . just had xmas & new year . tesco seem to think we need easter eggs already . quick , get the out it 'll be hallowe 'en soon>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+872507932507873280,"The text associated with the image reads <this level of will soon break my ribs . <user> come see this . 50 % really ? wait for tomorrow 's # ugbudget17 reading . <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The image shows a man and a woman standing next to each other, with the man holding a piece of paper. The text associated with the image reads ""this level of will soon break my ribs . <user> come see this . 50 % really ? wait for tomorrow 's # ugbudget17 reading . <user>>."" Given this text, it is likely that the image is sarcastic and the man is making a joke about the woman's salary."
+871250745114230784,"The text associated with the image reads <now this , fellow americans , is when donald trump became presidential .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The text associated with the image is sarcastic, so label 1 should be returned."
+716052895146319872,"The text associated with the image reads <so glad my husband works for a camera manufacturer . what 's a girl 's sleepover without spying boys ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+820712444435763201,"The text associated with the image reads <easy mistake to make , i guess .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+827844035083698176,"The text associated with the image reads <dude .. how will you unlock the happiness by a wrong key ? rt if get this .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+702037422339710976,"The text associated with the image reads <you don 't understand , killing dolphins is so fun ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+838207703596077056,"The text associated with the image reads <the force is strong in my family .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+920540607105216512,"The text associated with the image reads <what some would like us to believe ....>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+909809856114171905,"The text associated with the image reads <some monday motivation to start the week . tweet post>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+885152029563342848,"The text associated with the image reads <# bringbackobama because who needs the constitution anyway .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+899710883013767170,"The text associated with the image reads <what a beautiful eclipse !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+886730406078304257,"The text associated with the image reads <this is the ideal male body . you may not like it , but this is what top male performance looks like . <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+931343690701918208,"The text associated with the image reads <look at this stalker . smfh . oh , and notice all the people traveling on that uso tour . have any of them corroborated today 's story ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+853265920000757760,"The text associated with the image reads <<user> <user> first atm now # beer thank u <num> bringing discipline in our life # helpus don 't <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+752250366184620032,"The text associated with the image reads <pokemon go is amazing .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The text associated with the image reads <pokemon go is amazing .>. Given this text, please answer: label 0 if it is non-sarcasm and label 1 if it is sarcasm."
+894417067394318336,"The text associated with the image reads <* when you bunk your english and maths classes both ... ! ! !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcastic.
+702524431005061120,"The text associated with the image reads <definitely wouldn 't want to hurt the feelings of the person who is raping you …>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+724217382416338944,"The text associated with the image reads <ha ha you 're photoshopped .. like if you agree . …>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+818167966005137409,"The text associated with the image reads <<user> loving the book so far but disagree with british sul we 're more about our britishwit & than the upper lip these days :)>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+864576925334949889,"The text associated with the image reads <oh look , another chat closed . this is fun . wish mother 's day had been this fun for my grandmother ... <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+844023425010208769,"The text associated with the image reads <it 's almost hard to keep up with all the positive feedback ! <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+727025381153320961,"The text associated with the image reads <like if you agree .. :p>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+793904681701425152,"The text associated with the image reads <here 's a big shocker .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+699032054638444544,"The text associated with the image reads <good thing we have laws that deter us from this . especially in a public restroom . we need bigger gov 't .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+801209298311376896,"The text associated with the image reads <yes , <user> , because clippy was successful ui that everyone wants to see return ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+907073247241396225,"The text associated with the image reads <22 of the funniest quotes you 'll read <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+706554384155447296,"The text associated with the image reads <when you say i love you to a person you hate ! ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+912303921875623936,"The text associated with the image reads <why again are nfl players & athletes kneeling again for their # nationalanthem ? ? is it because they don 't make enough money>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+711919107965329408,"The text associated with the image reads <happens all the time ! lol>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+835837172179689472,"The text associated with the image reads <was karela named after # kerela or # kerela was named after karela <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+725801399460745216,"The text associated with the image reads <<user> version of what # raindontcome and <user> version of what # raindontcome means>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+874088779853647872,"The text associated with the image reads <seems like bethesda is doing another "" stand in line simulator "" event . my favorite ! – at los angeles center studios>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+716884206261932032,"The text associated with the image reads <keep rolling your eyes . maybe you 'll find a brain back there .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+936685145469337600,"The text associated with the image reads <wow , didn ’ t know i was so active ! or that there were over 2,000 days in a month ! december challenge here i come ....>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+904897658124328960,"The text associated with the image reads <thankyou for being a good boss>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+684667398843047936,"The text associated with the image reads </ / me and my mentions right now hahaha>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+944662262563909636,"The text associated with the image reads <loved bright , i guess hackers are at it again manipulating the audience score this movie es really good , i don 't think these critics get the concept and i completely removed from what general audience like to see in a movie <user> did an amazing job ..>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+703087927199334400,"The text associated with the image reads <great day for iron banner loot !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+725257959077453824,"The text associated with the image reads <ha ha . like if you laughed this scene . …>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+839254057898266625,"The text associated with the image reads <government is your "" friend "" .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+716702861350993920,"The text associated with the image reads <sitting at work , not working . just watching youtube and simultaneously dying of cramps>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+874683051607035904,"The text associated with the image reads <soldiers of redarmy ( lal salaam ) beating shehla rashid for shouting anti naxal slogans . jnu ( 2016 ) . <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+873794494935728128,"The text associated with the image reads <gandhi scolding jinnah for calling him "" chatur hindu "" in press conferance . delhi ( 1947 ) . <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+819329012195528704,"The text associated with the image reads <some of the last photos of jimi hendrix , taken the day before he died by his girlfriend monika danneman , 1970 .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819690629462687744,"The text associated with the image reads <photos : audrey hepburn between takes on the set of breakfast at tiffany 's ( 1961 ) ->.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+823313132701396992,"The text associated with the image reads <thank you all <user> volunteer disaster responders who are managing & staffing # larain evacuation centers in # santaclarita and>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,0
+820049949966667776,"The text associated with the image reads <meryl streep photographed by brigitte lacombe , 2015>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822952314440777728,"The text associated with the image reads <# womensmarch # sf with <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+818243862556721152,"The text associated with the image reads <lessons the signs need to learn>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+823318472469991424,"The text associated with the image reads <"" columbus discovered america . "">.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+818604213005643776,"The text associated with the image reads <remembering two orlando officers who died trying to apprehend a fugitive wanted for murder . <user> <user> <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+823309963896492032,"The text associated with the image reads <veljo tormis - father of 20th c . estonian choral music , here teaching me about political freedom and song . rip>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819332224206180352,"The text associated with the image reads <u . s . marines engaged in heavy fighting in hue city as they treat their wounded , feb 2,1968 !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+820056271374020608,"The text associated with the image reads <the u . s . will lift trade sanctions against sudan in exchange for humanitarian efforts .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822955965389664256,"The text associated with the image reads <i 'll just leave this here .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+727782019925565440,"The text associated with the image reads <asking the right questions . disclaimer : not my photo , found this on the net somewhere . :) )>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+708322572069306368,"The text associated with the image reads <thank you <user> for this massive jam . you made our lives easier .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+875401545441058816,"The text associated with the image reads <i call them ... "" destroyers "">.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+688338958577717248,"The text associated with the image reads <love my flatmates>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+719685863903522816,"The text associated with the image reads <this is definitely me anyone else feels the same .. ? ;) …>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+703067629108359168,"The text associated with the image reads <hey , i 'm so for trump2016 .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+718495840134803456,"The text associated with the image reads <chilling in seattle .. you know ! ! decided to skip work cause i don 't need money ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+829171939222618112,"The text associated with the image reads <look at the size of this corn & spinach burger , it 's so huge and stuffy <user> i hope they understand <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+844691430039805952,"The text associated with the image reads <hello , 2009 ! back before health care was affordable and when powerpoint was cutting edge .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+900494145533423616,"The text associated with the image reads <being stranded in austin with a flat and a spare that doesn 't fit feels pretty good .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+906351998789808128,"The text associated with the image reads <22 of the funniest quotes you 'll read <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+843204832701890560,"The text associated with the image reads <look at all the refugees women & children trying to escape ! just kidding>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+685314759353348096,"The text associated with the image reads <yeah , i mean there 's only 400,000 studies providing evidence of evolution : pure confirmation bias !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The text associated with the image is sarcastic, so label 1 should be returned."
+920481085443653632,"The text associated with the image reads <26 hilarious sayings and quotes to share <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+870365148480929792,"The text associated with the image reads <whoever 's in charge of the guardian notifications is clearly as pissed off with # donaldtrump as the rest of us>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+896066996063748096,"The text associated with the image reads <punekars at their best … ( this table is broken , don 't lean over it or you 'll fall on your face )>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+694582891850915840,"The text associated with the image reads <because when i think "" family tv show "" , aos always tops the list .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+853446257150484480,"The text associated with the image reads <<user> <user> once again soooo glad i pay for super fast internet with # spectrum # fail # whatamipayingfor happy>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+890875092808290304,"The text associated with the image reads <sometimes , rarely , but yes ; they are more logical than shin chan>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+816099104686161920,"The text associated with the image reads <thank you ! ! <user> .. you make my day today ! thank you so muchh ! ..>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcastic.
+908825790770319360,"The text associated with the image reads <totally safe ... safe>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+918176928825270272,"The text associated with the image reads <they will transfer some money to my account if the see my balance>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+689969145895591936,"The text associated with the image reads <have you ever seen kimdavis and dickcheney in the same room ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+904360234193305600,"The text associated with the image reads <uh oh stop being a feminist start repopulating ladies !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The text associated with the image is sarcastic, so label 1 should be returned."
+904594132106141696,"The text associated with the image reads <: internet speed of some isps !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+828986122982166528,"The text associated with the image reads <clashroyalese with this deck ... im not only strong but became boring>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+855350499108900864,"The text associated with the image reads <great window seat <user> . my little boy will really love looking out this window !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+724600301227905024,"The text associated with the image reads <04252016 # moon view from the first class suburb city of bulacan>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+892015870125408256,"The text associated with the image reads <the earth is definitely flat because this picture of the "" moon "" is clearly a honeydew melon ....>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+841417899080208384,"The text associated with the image reads <for the single woman !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 0 if it is non-sarcasm and Label 1 if it is sarcasm.
+684048166224838656,"The text associated with the image reads <lot of enthusiasm on display from young voters at the clinton rally in new hampshire>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+829952109747458048,"The text associated with the image reads <she 's so magnanimous . i feel like visiting an ansel adams photo exhibit .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcastic.
+689845434211143680,"The text associated with the image reads <omg miley being bi ? ! ? ! my whole life has been changed>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+690428189592666112,"The text associated with the image reads <# vietnam telcos block msgs which contain names of party leaders . how can citizens show their support ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+685631120298213376,"The text associated with the image reads <hung a tv above my bed . because i spend so much time watching tv . or in bed , for that matter .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+930715767275913216,"The text associated with the image reads <maybe this guy can # help me get the hang of . he is a doctor after all .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+815609512426143744,"The text associated with the image reads <it is all this technology that makes us anti-social and unfriendly ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+838784658221432832,"The text associated with the image reads <is this even a career ? ? ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+866890948613201920,"The text associated with the image reads <this man score 75 + goals in soccer match>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+890600875185537024,"The text associated with the image reads <at twenty dollars a quart ( not gallon ) behr paint is awesome .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+829124994957324288,"The text associated with the image reads <way to let her down gently , yukio !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+908226301990985728,"The text associated with the image reads <<user> "" improved fibre "" and new router now getting 7.25 mbps download and 5mbps upload . good job !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+836369710056882176,"The text associated with the image reads <poor unkarplutt . he has been at my cvs on this peg for at least <num> months with no takers .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+734060742945558528,"The text associated with the image reads <great opener .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+879803951763402752,"The text associated with the image reads <kites in chemtrails ! wooooooooooooooooooooooooooo>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+893446807333871616,"The text associated with the image reads <life is revolving around this number>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+806951240773025792,"The text associated with the image reads <so helpful at building the puzzle .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+914023222240215040,"The text associated with the image reads <when asked if i could leave coffee for a single day .....>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+715107215514935296,"The text associated with the image reads <<user> does it again . well done for handling stray lions in the best way possible . <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+716619566533779456,"The text associated with the image reads <excited that it 's finally spring in boston>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+824331439160393728,"The text associated with the image reads <<user> <user> <user> <user> yea totally ruining it>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+887004859345494016,"The text associated with the image reads <this is what happens when u make # antinational # naxal pak agent a cm instead of>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+730776269030363136,"The text associated with the image reads <# marchisio , my favourite player , my love , my hero>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+734336411202129920,"The text associated with the image reads <sure-getting face scanned and fingerprinted by usg contractors during an epidemic is no problem !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+925799237970829312,"The text associated with the image reads <bigto this lady at ralphs for letting me and my one item go ahead of her in line this morning .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+851756040895049728,"The text associated with the image reads <its only me and this guy are so damn brave>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+835913330174922752,"The text associated with the image reads <hilarious>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0 (Non-Sarcasm)
+721865685903745024,"The text associated with the image reads <hey <user> i guess they just don 't realize how "" pro gun "" you are !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+909607891191177216,"The text associated with the image reads <<user> where 's bruno ? not sure ... can 't see from these great seats .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+901818104778547200,"The text associated with the image reads <when it 's # bankholidayweekend & you have to work an extra shift .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcastic.
+856724671844069376,"The text associated with the image reads <thanks <user> a +>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+829167506149486592,"The text associated with the image reads <can 't wait to be reading out of a bible and in a school uniform soon>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+705976502207139840,"The text associated with the image reads <<user> millions of americans thank you .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+718122421614579712,"The text associated with the image reads <well im glad i switched to <user> from <user> with these "" great "" internet speeds .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+721808346681098240,"The text associated with the image reads <berniesanders rally . the face u make when they tell all black people vote for # hillary . withher>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+852448260480303104,"The text associated with the image reads <learn how to change the mood instantly ... ;) <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcastic.
+869443541230997504,"The text associated with the image reads <you too can be a real life expert security analyst in just 12mths from home ! but its true>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+937250174572945408,"The text associated with the image reads <government of india should start printing <num> rupee note as a tribute to virat kohli . 6th double ton .. unbelievable ! ! <user> <user> <user> <user> <user> <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+877549342357409792,"The text associated with the image reads <- babaramdev will deliver patanjali products himself at free home delivery charges .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+920897037842837504,"The text associated with the image reads <good luck with finding these two this diwali ! ;)>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The text associated with the image is sarcastic, so label 1 is returned."
+849836544341012480,"The text associated with the image reads <learn to respect this man ! <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+755123608561803264,"The text associated with the image reads <be scared <user> <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0 (Non-Sarcasm)
+909463398911320064,"The text associated with the image reads <<user> our power has been out for <num> hours in our neighborhood . just measured the temps in our fridge . <num> degrees . thanks .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+858789950715830272,"The text associated with the image reads <just a few storm / flooding reports over the past <num> hours .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+688045940477968384,"The text associated with the image reads <how to write good ,>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+780918708386398208,"The text associated with the image reads <now that 's a real story <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+712895974700675072,"The text associated with the image reads <good to see hillary rush to the defense of islam after the tragedy in belgium>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+806920770286997504,"The text associated with the image reads <a fellow crew member sent me this earlier this morning . she stated that she could actually picture me saying this ....>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"Based on the text provided, it is not possible to determine whether the statement is sarcasm or not. The text simply states that someone sent the image to the person, without providing any context or additional information about the statement."
+926424009054523392,"The text associated with the image reads <congratulations <user> and <user> ! well done !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcastic.
+825359914264567808,"The text associated with the image reads <love a bit of energy wasting # turnitoff <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+691725882860306432,"The text associated with the image reads <my cat thinks she so helpful with homework>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+929370357441576960,"The text associated with the image reads <editing b bad ... il justify it later in life chat .. but this has been my emotion since the track started>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+840363096715669504,"The text associated with the image reads <now that was always going to be a revelation>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0 (non-sarcasm)
+697460829185134592,"The text associated with the image reads <<user> <user> <user> was my point ! yours ? ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+731546468629270528,"The text associated with the image reads <yeah ... athletes that stay <num> years in college have less nba potential>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+911206530065743872,"The text associated with the image reads <<user> help hank ! all of these big numbers . i am losing my mind !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+866656809737760768,"The text associated with the image reads <great work picsart>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+891346636248465408,"The text associated with the image reads <tom <user> 6pm 4m # bollywood <num> # monsoon <num> # phattgayee # greentea # samosa bookmyshow>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+755107214982021120,"The text associated with the image reads <when you 're bff tells you that she talks more to you than her boyfriend>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcastic.
+688048010777853952,"The text associated with the image reads <up in the club last night with my bad woes td>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+942793570381062144,"The text associated with the image reads <i am grateful mr mccain continues to receive the same excellent care available to all americans . from <user> :>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+720068381123039232,"The text associated with the image reads <we heard the cool thing was to send random # dickpics so here you go but seriously rump>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+897064151318757376,"The text associated with the image reads <: some terrific destinations on the earth !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+684530584765333504,"The text associated with the image reads <gotta love the high quality products from the lake stevens <user> .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+849284009032953856,"The text associated with the image reads <nationalhuganewspersonday - hugs ? instead , grab 'em by their poodyhat ears and unmask them .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+862391626240413696,"The text associated with the image reads <that 's odd , i wonder why nobody cycles to silverdale ? could it be that our highway doesn 't have cycleways ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+927598817666523136,"The text associated with the image reads <when u become secular , liberal & muslim feminist u can shampoo ur hair with hijab on ur head . malaysia ( 2017 ) . <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+868951924581728256,"The text associated with the image reads <tired of internationalist , globalist human rights ? campaign for raising the age of marriage here at home in america !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+698705949096337408,"The text associated with the image reads <great weekend for a mini getaway in burlington !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+876520946395480064,"The text associated with the image reads <picture of me enjoying father 's day with my dad today .....>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+727392520385089536,"The text associated with the image reads <narendra modi asks bjp mps to highlight govt ’ s achievements . please forget the daily needs .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+817938429526691840,"The text associated with the image reads <safety first !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+885817048391008256,"The text associated with the image reads <agree / d 'accord !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+864472624910528512,"The text associated with the image reads <well being outside is great . i really have the time of my life .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+706428321106665472,"The text associated with the image reads <bloody scottish weather .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+687729338360442880,"The text associated with the image reads <i love the philly airport when shuttle bus gets stuck in traffic with the planes taxiing>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+919289960276156416,"The text associated with the image reads <# boyscoutsofamerica have announced that boys will no longer be permitted to join>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+826415065146339328,"The text associated with the image reads <when bae sends u a long message : - - - - - (>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+849851250917089280,"The text associated with the image reads <thank you captain obvious , i had no idea>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+691288239181860864,"The text associated with the image reads <my driveway entrance . thanks <user> love winter in nassau county>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+842180913052151808,"The text associated with the image reads <jamaican $ have all national heros carved on them . i guess our contry india never produce any national hero than mahatma gandhi>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+892788979577143296,"The text associated with the image reads <# affirmativeaction is such a big problem that latinos ( california 's largest ethnic group ) are also the least represented in film .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+919062726982463488,"The text associated with the image reads <we need more of these great liberal deals ..>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+731651421460815872,"The text associated with the image reads <the muslim sacrifices to save western values>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+822594342099492864,"The text associated with the image reads <we the people defend dignity . protect each other , are greater than fear . somewhere we read : # wethepeople .... establish justice .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819689186223603712,"The text associated with the image reads <while detained , dr . biscet was told to give up his work and that he 'd go to prison if he continued . freedom of conscience .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822226158473400320,"The text associated with the image reads <this . apart from my and others ' political views it is truly saddening that we will most likely not experience this tomorrow>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,The text associated with the image is sarcasm.
+819693541907714048,"The text associated with the image reads <please share liberally , no pun intended .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,Label 0: Non-Sarcasm Label 1: Sarcasm
+819692523698397184,"The text associated with the image reads <tbt most people don 't know this , but frederick douglass was the most photographed american of the the 19th century .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+818608265865138176,"The text associated with the image reads <honoring all who gave their lives because they took responsibility for america .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+850203290721599488,"The text associated with the image reads <for some reason , these pictures of adolf hitler never make the history channel documentaries . i wonder why ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+925795658778529792,"The text associated with the image reads <algeria military dictature failed coz of morocco cannabis . what do we wait 2eradicate it 2save algeria ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+701128362706636800,"The text associated with the image reads <wow ; muhammad ali is muslim ? who knew that hidden piece of info ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+876652241523949568,"The text associated with the image reads <true>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+821869225228832768,"The text associated with the image reads <my endless love .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+820417003714445312,"The text associated with the image reads <breaking news <user> <user> france called and wants the statue of liberty returned by 12:01 pm on january 20 , 2017 .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+823313227740160000,"The text associated with the image reads <special weekend celebrating 30 year anniversary of the winning 1987 world cup>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822230390739968000,"The text associated with the image reads <stephen king on 'blood on the tracks ' . ( <user> )>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822222640165306368,"The text associated with the image reads <obama 's inauguration concert 2009 versus trump 's ! what kind of loser can 't even get a couple of decent singers for his inauguration ? sad !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+822222349256822784,"The text associated with the image reads <trump family applauds at feet of abraham lincoln as fireworks spell out u-s-a .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822223675730657280,"The text associated with the image reads <barack obama campaigning for bernie sanders in 2006 .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819692146139635712,"The text associated with the image reads <the queen>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822591169997795328,"The text associated with the image reads <i learned from a college professor that punching nazis is always okay .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822587900118364160,"The text associated with the image reads <joseph brant , mohawk , 1835 . ⊕ painting by charles bird king .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819691785064693760,"The text associated with the image reads <i 've been appointed deputy features editor of <user> famous deputies from history : deputy dawg , deputy wyatt earp .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+898546136293572608,"The text associated with the image reads <if it wasn 't for the rocky statue ... children would never know the history of the italian stallion .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+830094271579615232,"The text associated with the image reads <<user> probably a man who has no clue what he 's talking about then ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+878104052344561664,"The text associated with the image reads <did you know that hitler was crazy ! ? apparently , this is news that <user> thinks you may not know !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+897957095814840320,"The text associated with the image reads <how dare those alt left people attack those alt right nazis on normandy !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+918189817028071424,"The text associated with the image reads <people are inherently bad and can 't manage their own lives , so let 's put people in charge of them .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+859186127978319872,"The text associated with the image reads <what a shining example of knowledge , thought , and insight when it comes to american history !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+894777105182998528,"The text associated with the image reads <exposed ! first country on earth actually run by jews ! where will this lead up to ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+822222181899890688,"The text associated with the image reads <a historic meeting between two great minds in the>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+823309146011340800,"The text associated with the image reads <m60a3 main battle tank of the 3rd armored division , 3-32 nd armored regt , moves along a street in germany during exercise reforger ' 85 .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+817519636744982528,"The text associated with the image reads <danish coin from 1659 shows god cutting off the hand of the swedish king , who is reaching for the danish crown .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,0
+822951483368992768,"The text associated with the image reads <hillarys inauguration crowd .....>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+822227555147137024,"The text associated with the image reads <don 't feel bad <user> nothing new . you are in good company .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,The text associated with the image is sarcastic.
+818239154626695168,"The text associated with the image reads <blackfoot warrior , ca . 1840-1843 . ⊕ painting by karl bodmer .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+820415025781362688,"The text associated with the image reads <"" i believe the best social program is a job . "" - ronald reagan>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+703512474918596608,"The text associated with the image reads <justified !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+899674161064235008,"The text associated with the image reads <indian railways warning be like # newindia indian>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+717395975313207296,"The text associated with the image reads <long distance relationship explained in one picture !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+900272236082286592,"The text associated with the image reads <ugh i hate it when nazis , nuclear war , and racism get in the way of my football>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The image is associated with a sarcastic text, so the label should be 1 (sarcasm)."
+907730880063524864,"The text associated with the image reads <the atlanta braves signing nick markakis to a <num> year deal , felt so bad they made him a bobblehead giveaway .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+894186337972125696,"The text associated with the image reads <probably . but then i wouldn 't be me ! <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"Based on the text, it is likely that the statement is sarcastic."
+904532506560479232,"The text associated with the image reads <22 of the funniest quotes you 'll read <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0 (Non-Sarcasm)
+720203502279114752,"The text associated with the image reads <seriously , omg what a scandal ! who even does that , ieewww hold hands . throw them in jail ! disgusting !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+922323926142803968,"The text associated with the image reads <jai and viru of world politics <user> <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+816004972810792960,"The text associated with the image reads <dance like no one 's watching because everyone in on their phone , so no one is watching .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+836712647282339840,"The text associated with the image reads <i don 't know why poor people don 't go to college . jeez .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcastic.
+810178013920948224,"The text associated with the image reads <it 's not what it looks like>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+722719496478310400,"The text associated with the image reads <damn siri who hurt you …>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+903667069664714752,"The text associated with the image reads <it begins ... memes>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+864039499721879552,"The text associated with the image reads <hahaha>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+725355228753727488,"The text associated with the image reads <even though you broke my selfie stick & called me ugly that one time , hbd ashley ! ! ily>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+926549048944758784,"The text associated with the image reads <nothing more fun and motivating than positive youtube comments like this one .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+850346336658612224,"The text associated with the image reads <true story>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+696900576014049280,"The text associated with the image reads <lord have mercy ! someone said a naughty word at a public speech !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+716233618247520256,"The text associated with the image reads <# quote # qotd # funny # true # love # life # me # fit # fitfamdk # fitfam # health # healthy # saturday by _troldeun …>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+876956404166270976,"The text associated with the image reads <its totally ... yes>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The text associated with the image is sarcasm, so label 1 is the appropriate response."
+835583470625783808,"The text associated with the image reads <that 's wht most of the men feel about girls who wears tight & short dresses . blaming only men is injustice .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0 (Non-Sarcasm)
+714166674333675520,"The text associated with the image reads <i wold love to learn like that>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0 (Non-Sarcasm)
+928029452818247680,"The text associated with the image reads <as an japanese cdn with samurai lineage i 'm wondering the same thing too !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The text associated with the image is sarcastic, so label 1 should be assigned to the text."
+820696137330032640,"The text associated with the image reads <truth .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The text associated with the image is sarcastic, so the label should be 1."
+730954331516702720,"The text associated with the image reads <whatsthis ! ? new twist in # bloodguilty <user> marketing prowess ? but # seriously ,>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+725668907730743296,"The text associated with the image reads <brother beauvoir has developed a habit of sending me these memes . can 't for the life of me think why .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcastic.
+840913000689094656,"The text associated with the image reads <these facts are alwayz way too true ..>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+823327318215131136,"The text associated with the image reads <"" protesting never achieved anything . "" yeah totally . never . not once . not ever .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+816218446526578688,"The text associated with the image reads <can 't think of a better way to kick off my start to school than some notes of classical liberalism .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+920748848087044096,"The text associated with the image reads <26 hilarious sayings and quotes to share <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 0: Non-Sarcasm Label 1: Sarcasm
+702458772132896768,"The text associated with the image reads <helps keep you from telling people what you really think of them .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+734087513292349440,"The text associated with the image reads <trump 's support among nri indians : us getting modi-fied ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+828213493971185664,"The text associated with the image reads <omg , they lie .......... who knew .....>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+927214512620654592,"The text associated with the image reads <you know it ’ s cold in your house when <user> looks like this>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+867742066348093440,"The text associated with the image reads <me all over !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+865265478649782272,"The text associated with the image reads <gregory house always kills it ! !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+839876786502582272,"The text associated with the image reads <perks of being a man . celebrating manhood , back to all the happy men 's days .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+836430613414612992,"The text associated with the image reads <lol .. hit like if you got them ..>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+830921756466626560,"The text associated with the image reads <saturday night conversations with april .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0 (Non-Sarcasm)
+722125716058275840,"The text associated with the image reads <good to see the guys at <user> once again taking pride in doing a good job .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+919878340407787520,"The text associated with the image reads <good job , malaysians <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+732096295456899072,"The text associated with the image reads <i love getting old>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+720230888613785600,"The text associated with the image reads <dads are awesome>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,0
+829487867269296128,"The text associated with the image reads <<user> <user> it totally makes sense for alberta to try make up for a world problem by bringing in>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+938127718213808128,"The text associated with the image reads <noo ! you dont say ? ? ! ? ! ? ? ! ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+865848235146919936,"The text associated with the image reads <i love how people review movies before even watching it .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcastic.
+794205860884922368,"The text associated with the image reads <the basic thought that comes to mind about water temple>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+928228925670531072,"The text associated with the image reads <dear <user> ji : why are you wasting money on vaccinating indians - you should also play caste card and win votes - this country rewards divisive forces and corrupts ! ( likhna pada kyonki logon ka sq kam hai !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+831131929231650816,"The text associated with the image reads <this would be so much fun to experience every day .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+913913122473299968,"The text associated with the image reads <<user> <user> this is nebraska apparently is now a racist tool>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The text associated with the image is sarcastic, as it implies that Nebraska has become a racist tool by removing the phrase ""The Logan County Sheriff's Office has removed the phrase 'The Logan County Sheriff's Office has replaced the phrase 'The Lincoln County Sheriff's Office has removed the phrase 'The Lincoln County Sheriff's Office has replaced the phrase 'The Logan County Sheriff's Office has removed the phrase 'The Logan County Sheriff's Office has replaced the phrase 'The Lincoln County Sheriff's Office has removed the phrase 'The Logan County Sheriff's Office has replaced the phrase 'The Logan County Sheriff's Office has removed the phrase 'The Lincoln County Sheriff's Office has removed the phrase 'The Logan County Sheriff's Office has replaced the phrase 'The Logan County Sheriff's Office has removed the phrase 'The Lincoln County Sheriff's Office has removed the phrase 'The Logan County Sheriff's Office has removed the phrase 'The Lincoln County Sheriff's Office has removed the phrase 'The Logan County Sheriff's Office has removed the phrase 'The Lincoln County Sheriff's Office has"
+896262017249685504,"The text associated with the image reads <this is <num> century>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+847507578183495680,"The text associated with the image reads <my hoomans are coming home today from their horrible trip .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+892209027278614528,"The text associated with the image reads <: two interested candidates are travelling to pakistan to join as ministers in nawaz sharif ’ s govt .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+725168231732924416,"The text associated with the image reads <so , regardless of whoever wins decision2016 , this book is going to be america 's future . < ->.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+842316070224568320,"The text associated with the image reads <bangalore parking in # noparking area . police vehicle in no parking zone . kudos to traffic>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+691924656840925184,"The text associated with the image reads <<user> thanks for the show bag with hairy food ! goodenough <user> should be shannon hairnnett>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+862496126104219648,"The text associated with the image reads <i 'm dying ever since i went from "" lazy writer "" to selling my ps4 months ago . damn arthritis .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+928024873342943232,"The text associated with the image reads <why we love flying <user> so much legroom ! ! !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+729169300502777856,"The text associated with the image reads <love being woken up by a qatar <num>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+850324408090624000,"The text associated with the image reads <can 't believe they made the kids go to school with wet roads and wind !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+924054978162913280,"The text associated with the image reads <what a fine collection of political stories .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+881777859383226368,"The text associated with the image reads <: a king has mounted a mosquito coil in his mouth while roaming around the kingdom to prevent the mosquitoes .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+700101567974756352,"The text associated with the image reads <back on the course 7.30 am tomorrow . stay tuned for vlogs . ! oh wait ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+735649728096935936,"The text associated with the image reads <because of course that 's where <user> is heading with this . .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+899739411289690112,"The text associated with the image reads <didn 't see this one coming ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+823986290601234432,"The text associated with the image reads <wait does this mean the vicious weather is over ?>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+903843433080434688,"The text associated with the image reads <sooooo true !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The text associated with the image is sarcastic, so label 1 is the appropriate response."
+819563827041804288,"The text associated with the image reads <truth . <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+859572344221835264,"The text associated with the image reads <i didn 't want to make it home in time for dinner anyway ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+869015757673320448,"The text associated with the image reads <meh . i 'm ok with that . i 'm the one with the "" great personality "">.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+713276569804939264,"The text associated with the image reads <i also don 't have friends and i 'm ghetto as fuuuuck>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+689487804133289984,"The text associated with the image reads <yes ! yes indeed ! !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+902050365394300928,"The text associated with the image reads <it 's fair to say this has happened more than once .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The text associated with the image is sarcasm, so label 1 is the appropriate response."
+822302775371366400,"The text associated with the image reads <sky . it exists outside too but you can 't click the like button in the air .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+862389688111378432,"The text associated with the image reads <yes fred you certainly fit crazy 2 is pretty true , most of time anyway . so fred , like tom sings "" don 't come around here no more "">.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+916005229249929216,"The text associated with the image reads <breakingnews people all over the country lining up to buy first release of $ 50 airtrump paper towels .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+900802739265052672,"The text associated with the image reads <thank you <user> . we weren 't planning on taking care of our luggage anyways ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+921330198687223808,"The text associated with the image reads <no that ’ s fine . no really , everyone parks like that at the petrol pump>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The image is associated with the label 1, indicating that the text is sarcastic."
+928363152915304448,"The text associated with the image reads <<user> <user> another great move for cowboys and showing respect to women>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+820052217784844288,"The text associated with the image reads <you vs the guy she tells you not to worry about>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+818242555129184256,"The text associated with the image reads <today is the feast of the black nazarene , a special non-working holiday in the city of manila .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819325663962427392,"The text associated with the image reads <teacher : lauren how 's finals week going for you ? me :>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+816796238817460224,"The text associated with the image reads <i 'm afraid i can 't teach today . my prescription says , 'take 2 and keep away from children . '>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+818607313422548992,"The text associated with the image reads <shipping to iran uranium # congress ? ? ? ? here 's your # flashback we have spoken # trump . <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+819330264044371968,"The text associated with the image reads <miss my best friend like maaaaad , the fcking drunk . bring on zanetti next month>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822230386738663424,"The text associated with the image reads <i have some bad news , # colts fans ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+818604743232786432,"The text associated with the image reads <putin and "" his theorist "" had a very public falling-out almost a year ago . these newly-minted russia experts don 't even follow russian news>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+822951084977192960,"The text associated with the image reads <build that wall !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+817519912625152000,"The text associated with the image reads <may # obama & # hillary be haunted by the ghosts of these 4 brave victims of # benghazi !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+819323491312893952,"The text associated with the image reads <forrest gump , 1994>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822585129625329664,"The text associated with the image reads <black legends>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+818605032635531264,"The text associated with the image reads <john cassavetes rodando 'shadows ' ( 1959 ) .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+817516750799536128,"The text associated with the image reads <it doesn 't look like he said this at all>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+818243666682769408,"The text associated with the image reads <touchdown <user> ! it 's a 1 point game . 14-13 packers .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+820057688138809344,"The text associated with the image reads <but i got you this rose and i need to know will you let it die or let if grow ? shawn talentfm>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+819694518668849152,"The text associated with the image reads <yoon logic is the best .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819688664942907392,"The text associated with the image reads <when your mom is yelling at the fact there are no cups or glasses in the house and you know they 're all in your room>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+820420078781005824,"The text associated with the image reads <you are nothing if not consistent .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+820049992257798144,"The text associated with the image reads <please , name someone sweeter than dakota johnson . i 'll wait .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+816071556174675968,"The text associated with the image reads <when you eat a popeye 's biscuit with no drink .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+821867983173812224,"The text associated with the image reads <tim raines . what a stud . but wow , baseball hall of fame , you don 't half make your inductees suffer>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822591526643597312,"The text associated with the image reads <1 week till the nationwide release of # lostinflorence . here 's another poster version ( agw ) for you to enjoy !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822589651571580928,"The text associated with the image reads <as wack as today is at least we have george bush tryna put a rain poncho on lmaooo>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+823312831378554880,"The text associated with the image reads <if you look closely at this image , its pretty obvious # spicer did have # alternativefacts but wasn 't too forthcoming about the whole story ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+818244035072708608,"The text associated with the image reads <i got a new ra and she trynna schedule a hall meeting the same time as bachelor .... she woulda thot>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,0 (Non-Sarcasm)
+820416027368505344,"The text associated with the image reads <his vile spawn admitted it .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,Label 1 (Sarcasm)
+820419271012581376,"The text associated with the image reads <"" into you "" has been now certified gold in france selling over 75,000 copies .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819330170658103296,"The text associated with the image reads <wow the new mlp movie looks great>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+820414543893434368,"The text associated with the image reads <this is wht paid pr is stop targertng # banifam , plz its my humble request we have luved bani with al our heart , & expect nothn inreturn>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+822227149520334848,"The text associated with the image reads <excellent parenting>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,0 (Non-Sarcasm)
+819686883722743808,"The text associated with the image reads <supporting raees means indirectly supporting pakistan & insulting our martyrs . & instead donate that money to a charity>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+820051730524176384,"The text associated with the image reads <i 'm proud to say i 'm officially commited to jackson state community college>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,0
+819323497155436544,"The text associated with the image reads <we all know this girl>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+823316831096213504,"The text associated with the image reads <there is no color in brotherhood .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822224074143371264,"The text associated with the image reads <photo | normani and the girls backstage at the>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822589941616181248,"The text associated with the image reads <my favorite part of today is george w . bush trying to put on a poncho .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+822950717384228864,"The text associated with the image reads <[ photo ] <user> with the cast and director of # beforeifall at the premiere on the 2017 sundance film festival - via <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819330850219233280,"The text associated with the image reads <had a great time speaking with <user> students from oxon hill hs today at marcus at <user> .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+817518572427771904,"The text associated with the image reads <parentchallenge post three pics . 1 . when you were pregnant . 2 . first day your child was born 3 . what your child looks like now>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1 (sarcasm)
+823311748987916288,"The text associated with the image reads <i love the expression on this girl 's face . priceless !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+820414206193217536,"The text associated with the image reads <we 've had rain most of the day here at grandcanyon . snow is expected to fall tonight . be prepared for winter driving conditions .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819322816961114112,"The text associated with the image reads <im forever in love with this look>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819323307396890624,"The text associated with the image reads <where can i get a similar dress help me>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+821868539011276800,"The text associated with the image reads <absolutely one of the more beautiful lakes we have ever seen - lake bohinj , slovenia .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822953162344644608,"The text associated with the image reads <anti social social club x <user> . 1/27>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822946997120315392,"The text associated with the image reads <center on love . demand change . don 't settle . "" power concedes nothing without a demand . it never did and it never will . "" - - frederick douglass>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+820052260810006528,"The text associated with the image reads <birmingham morris dancers attacked by yobs for blacking up their face for 500 yr old traditional dance . wonder if they 'd attack these guys>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+823316365289332736,"The text associated with the image reads <there is no greater sukoon / shanti / peace than when ur baby sleeps in ur arms .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+818604856344645632,"The text associated with the image reads <my heart breaks for the family , friends & colleagues of sgt debra clayton of <user> who was killed today .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819332967717896192,"The text associated with the image reads <balakrishna's entry in gautamiputrasatakarni gives goosebumps . extraordinary , exceptional .. dialogues , visuals compete with each>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+821504338254319616,"The text associated with the image reads <that 's what love is , isn 't it ? when being apart for a while feels you 've been apart for too long .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+820056375065772032,"The text associated with the image reads <loveflowers dahlia facts : the dahlia is named after swedish 18th - century botanist anders dahl . floret flowers>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,0
+823316289548521472,"The text associated with the image reads <you vs the guy she tells you not to worry about>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+823315314016448512,"The text associated with the image reads <beautiful people are not always good , but good people are always beautiful .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,0
+817518860542873600,"The text associated with the image reads <"" my heart beats with the energy from my fans and my heart beats for the stage . "" - lady gaga>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822591789156679680,"The text associated with the image reads <i saw this guy ! my kind of protest <user> : okay , i 'm done>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819329025495547904,"The text associated with the image reads <this guy came up to me telling me he 's trying out for america 's got talent and that he sings better than my favorite ice cream>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+823311658672066560,"The text associated with the image reads <what madonna is doing at 2:31 am .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+820414784386514944,"The text associated with the image reads <rt if shawn mendes has already made your 2017 better>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819326087608074240,"The text associated with the image reads <i apologize unreservedly for my irresponsible statement that itunes was designed by the arch-demon demogorgon . actually it was jubilex .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822591868366102528,"The text associated with the image reads <shocking people by saying they 're a fashion icon>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,"The text associated with the image is sarcastic, so the output label would be 1."
+822588804494200832,"The text associated with the image reads <day 1 : trump sacrifices the little people in favor of wall street .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+823310444534185984,"The text associated with the image reads <we 've been given claws and not without reason , so we shall wipe the earth clear of human dust .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822954747669815296,"The text associated with the image reads <no one can spin their way out of photo evidence : the media was right and the president wrong about crowds in dc yesterday .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+818240198765113344,"The text associated with the image reads <the boys on the red carpet !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819688391067500544,"The text associated with the image reads <this is the managing editor of the federalist and a fellow at the heartland institute :>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,Label 1 (Sarcasm)
+820057541489074176,"The text associated with the image reads <yes ! lol>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,"The text associated with the image is sarcastic, so label 1 is the appropriate response."
+819329669598154752,"The text associated with the image reads <gomez x the weeknd imagine if they breakup ? straight hits>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822230215178985472,"The text associated with the image reads <obama kept the dignity of scandal free administration . dt : russia involved sexually assaulted women racism>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822952702573428736,"The text associated with the image reads <pictures from the # womensmarch in barcelona>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+823309596357955584,"The text associated with the image reads <why they do my mans like that .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819331605474856960,"The text associated with the image reads <peter dinklage / pip makes all the sense ! !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822952019438735360,"The text associated with the image reads <foggy .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819327520503906304,"The text associated with the image reads <"" you curse too much "" me :>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+822222581189132288,"The text associated with the image reads <2017 . be brave .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,0
+822226242397241344,"The text associated with the image reads <enjoying the savanna with baby elephant>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+820417170282844160,"The text associated with the image reads <john lewis is a terrible example , calling hillary good when she did wrong ; now saying pres elect trump is not legit , tho americans said yes !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822949174425567232,"The text associated with the image reads <wow ... communist party usa leader and accomplice to four murders angela davis now speaking at # womensmarch .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+821504660284538880,"The text associated with the image reads <this breakfast tho>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+709811174615830528,"The text associated with the image reads <in a nonthreatening manner .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,"The text associated with the image is <in a nonthreatening manner>. Based on this text, the image is not sarcasm."
+860328473927331840,"The text associated with the image reads <lol ! ! few can !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+898000128824541184,"The text associated with the image reads <omg , russians on the space station ! it must be trump 's fault !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+824844883085062144,"The text associated with the image reads <best way to deal with dumb people>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+850575050554081280,"The text associated with the image reads <# trump thought bombing # syria would make him look decisive and having emperor-like powers ... aight donald , you 're halfway there !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+892641076439392256,"The text associated with the image reads <: bhim is practising warfare ahead of the battle of mahabharat>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+853058589233209344,"The text associated with the image reads <nothing better than missing your bus>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+877179548617539584,"The text associated with the image reads <i think i have got the worst ever weather of <num> enforced days off !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+836527854984679424,"The text associated with the image reads <if pk ever come back he will have to start learning about humans all over again . i bet he haven 't seen ranveersingh .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+685357510484738048,"The text associated with the image reads <so weather conditions are affecting <user> services . it does look dreadful outside ! ! !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+703578971561201664,"The text associated with the image reads <there is nothing more superb to do on a saturday be stuck in traffic !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+922855146639388672,"The text associated with the image reads <trying to be friends with the goddess of wealth . if she accepts it , certainly i would never run out of money !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+937604526948868096,"The text associated with the image reads <probably the best actors ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+720005945737277440,"The text associated with the image reads <just a little something before going to sleep>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+918853354704506880,"The text associated with the image reads <this may help explain why canadians * seem * so polite .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+768574394918658048,"The text associated with the image reads <modi ji is only fulfilling chanakya 's dreams !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+875339212698136576,"The text associated with the image reads <pandit nehru 's spirit entered into salman khan 's body to give lecture on "" losses caused by war "" . ( 2017 ) <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+834627157745758208,"The text associated with the image reads <people power>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+706743286107607040,"The text associated with the image reads <hahahaha>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcasm.
+721463988437934080,"The text associated with the image reads <the only place open early on a sundee morning in melbourne>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+698576206388551680,"The text associated with the image reads <here are our lovely noontime temps>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+698250049411747840,"The text associated with the image reads <<user> stuffchriswouldsay me .... "" i like turtles "" :) <user> <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+822947260942032896,"The text associated with the image reads <proud to be an american , ashamed of my>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+820413546076848128,"The text associated with the image reads <fuji-san from the airplane>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+821505637020532736,"The text associated with the image reads <you lowkey need a broom and dust pan to eat these things>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822231284319744000,"The text associated with the image reads <make america sane again>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+822589322440404992,"The text associated with the image reads <donald john trump , the 45th president of the united states .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+819332551718354944,"The text associated with the image reads <photo of today 's steam fog is from david perron . evaporation is being caused by cold dry air flowing over relatively warm okanagan lake .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822952392584990720,"The text associated with the image reads <republicans telling me to respect trump when they made racist posters and racist protests and disrespected obama for eight years>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+822949649271005184,"The text associated with the image reads <brian jones at olympic recording studio in barnes , south west london recording backing for the track 'we love you ' , 1967 .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+818603543443685376,"The text associated with the image reads <speech recognition word error rate : 1999 — nearly 100 % error 2016 — 5.9 % error>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,Label 1 (Sarcasm)
+822224521948266496,"The text associated with the image reads <here 's 1 giant russian airport being built , close to ukraine border & army base , ( note new building work ) linked to ukr invasion .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+822222322077552640,"The text associated with the image reads <both got wealthy while presiding over the destruction of poor black americans .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+820782386619285504,"The text associated with the image reads <on top of my illegal executive orders , i also took the time to weaponize the era , irs , nsa , doj , cia , fbi , home land security !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+819693450631217152,"The text associated with the image reads <life is simple .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",0,1
+794129804287234048,"The text associated with the image reads <psychologyfact studies have shown that enhances one 's problem-solving ability .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+839505494158913536,"The text associated with the image reads <"" every decent man is ashamed of the government he lives under . "" h . l . mencken>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+910898013207396352,"The text associated with the image reads <<user> cant wait to see which players get compared to earl thomas and kam chancellor this week !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+691870492240773120,"The text associated with the image reads <thanks <user> , you know how to make writers full of hope of making a living !>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,The text associated with the image is sarcastic.
+708343784292130816,"The text associated with the image reads <# fuk # love>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+867938295925399552,"The text associated with the image reads <lol good one awesome resemblance of american first lady <user> <user> <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+874606659385032704,"The text associated with the image reads <this gem is lost to people .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+918113208103141376,"The text associated with the image reads <spot the rightwingers & leftwingers of the future here . <user>>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+920007414811725824,"The text associated with the image reads <first day of my 'intro to feminism ' class>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+933762234496552960,"The text associated with the image reads <nice to see yet more diversity shining through in the region ...>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
+848129081442959360,"The text associated with the image reads <for those who are not so customer friendly , haaaaa-larious .>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,Label 1 (Sarcasm)
+716685323535777792,"The text associated with the image reads <oooh yeah ..>.  Given this text please answer : label 0 if it is non sarcasm and label 1 if it is sarcasm. 
+ Output Format:  Return label only without any other text . ",1,1
